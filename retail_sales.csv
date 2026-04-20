@@ -1,0 +1,9 @@
+OrderID,CustomerID,ProductCategory,SalesAmount,Region,OrderDate
+1,C101,Electronics,,South,2023-01-01
+2,C102,Electronics,5000,South,2023-01-02
+3,C103,Furniture,3000,North,2023-01-03
+4,C104,Electronics,,South,2023-01-04
+5,C105,Furniture,2000,South,2023-01-05
+6,C106,Electronics,7000,North,2023-01-06
+
+
